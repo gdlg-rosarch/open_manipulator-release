@@ -1,0 +1,22 @@
+ros-kinetic-open-manipulator-description (0.1.1-0jessie) jessie; urgency=high
+
+  * none
+
+ -- Pyo <pyo@robotis.com>  Wed, 14 Mar 2018 15:00:00 -0000
+
+ros-kinetic-open-manipulator-description (0.1.0-0jessie) jessie; urgency=high
+
+  * modified joint control
+  * modified gripper topic
+  * modified gazebo set
+  * modified URDF
+  * modified description
+  * modified messages
+  * modified moveit
+  * modified cmake, package files for release
+  * refactoring for release
+  * Contributors: Darby Lim, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 13 Mar 2018 15:00:00 -0000
+
+
