@@ -1,0 +1,13 @@
+ros-kinetic-open-manipulator-moveit (0.1.0-0jessie) jessie; urgency=high
+
+  * modified moveit set and gripper control
+  * modified gazebo and moveit setting
+  * modified gazebo sim
+  * modified description
+  * modified cmake, packages files for release
+  * refactoring for release
+  * Contributors: Darby Lim, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 13 Mar 2018 15:00:00 -0000
+
+
